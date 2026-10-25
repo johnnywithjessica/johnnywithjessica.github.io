@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Johnny and Jessica//Wedding//ZH-TW
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:johnny-jessica-20270306@wedding.local
+DTSTAMP:20261025T120000Z
+DTSTART:20270306T093000Z
+SUMMARY:Johnny & Jessica 婚禮儀式 / Wedding ceremony
+LOCATION:CHALET V 台北市中山區植福路8號1樓
+DESCRIPTION:婚禮儀式 Ceremony 17:30 (Asia/Taipei)\n婚宴開始 Banqu
+ et 18:30 (Asia/Taipei). End time to be confirmed.
+END:VEVENT
+END:VCALENDAR
