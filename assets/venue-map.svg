@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="470" viewBox="0 0 620 470" role="img" aria-labelledby="title desc">
+<title id="title">CHALET V 位置示意圖</title>
+<desc id="desc">CHALET V 位於典華旁，入口在建物南側廊道。南側為植福路，東側為敬業二路；典華有特約停車場。</desc>
+<rect width="620" height="470" rx="8" fill="#e1dfd3"/>
+<path fill="#faf9f4" d="M540 0h80v470h-80zM0 366h620v66H0zM76 267h50v99H76zM0 246h328v40H0z"/>
+<rect width="328" height="246" rx="3" fill="#7a896b"/>
+<g text-anchor="middle" fill="#3f493d" font-family="'PingFang TC','Microsoft JhengHei',sans-serif">
+<text x="164" y="134" fill="#fff" font-family="Georgia,serif" font-size="34">CHALET V</text>
+<text x="432" y="169" font-size="29">典華</text>
+<text x="263" y="353" font-size="19">特約停車場</text>
+<text x="263" y="326" font-family="Georgia,serif" font-size="35">P</text>
+<text x="222" y="274" font-size="20">戶外入口</text>
+<text x="580" y="100" font-size="23">敬<tspan x="580" dy="55">業</tspan><tspan x="580" dy="55">二</tspan><tspan x="580" dy="55">路</tspan></text>
+<text x="310" y="408" font-size="24" letter-spacing="14">植福路</text>
+<text x="310" y="457" font-size="20">捷運劍南路站 · 2 號出口</text>
+</g>
+<path d="M101 353V266h49" fill="none" stroke="#9b8669" stroke-width="3" stroke-linecap="round"/>
+<path d="m142 260 9 6-9 6" fill="none" stroke="#9b8669" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
