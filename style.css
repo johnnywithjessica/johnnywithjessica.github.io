@@ -24,3 +24,17 @@
 .entrance-note span{display:block;font-family:var(--serif);font-size:12px}
 @media(max-width:850px){.transport-grid{gap:26px;grid-template-columns:1fr 1fr}.transport-map{padding:16px}.transport h3 em{display:block;margin:5px 0 0}}
 @media(max-width:600px){header{padding-left:20px;padding-right:20px}nav{gap:13px}.transport{margin-top:42px;padding-top:32px}.transport h3{font-size:25px}.transport h3 em{font-size:18px}.transport-grid{grid-template-columns:1fr;gap:30px}.transport-map{padding:19px}.transport-item{gap:16px}.transport-item p{font-size:15px}.transport-map figcaption{font-size:12px}.entrance-note{font-size:13px}}
+
+/* Live countdown to the ceremony in Taiwan */
+.countdown{background:radial-gradient(ellipse at 20% 5%,#68786c66,transparent 65%),#526159;color:#faf7ef;text-align:center;padding-top:82px;padding-bottom:76px}
+.countdown>.eyebrow{font-size:11px;letter-spacing:4px;color:#e0cdbb;margin-bottom:24px}
+.countdown h2{font-size:clamp(29px,4vw,48px);font-weight:400;letter-spacing:3px;margin-bottom:46px}
+.countdown-clock{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:25px;max-width:920px;margin:0 auto}
+.countdown-unit{min-width:0;border-top:1px solid #f7f5ef66;border-bottom:1px solid #f7f5ef40;padding:28px 4px 26px}
+.countdown-value{display:block;font-family:var(--serif);font-size:clamp(48px,7vw,94px);line-height:1.2;letter-spacing:0;font-weight:400;font-variant-numeric:lining-nums tabular-nums}
+.countdown-label{display:block;font-size:11px;font-weight:500;letter-spacing:2px;margin-top:14px;color:#f0e9df}
+.countdown-date{font-family:var(--serif);font-size:14px;letter-spacing:1.5px;color:#e0e5dc;margin:30px 0 0}
+.countdown-date span{display:block;font-family:-apple-system,BlinkMacSystemFont,'PingFang TC',sans-serif;font-size:11px;letter-spacing:.8px;margin-top:4px}
+.countdown-finished{font-family:var(--serif);font-size:22px;margin:0 auto 30px;padding:28px 0;border-block:1px solid #f7f5ef55;max-width:640px}
+.countdown-finished span{display:block;font-size:16px;margin-top:10px}
+@media(max-width:600px){.countdown{padding:56px 22px 46px}.countdown>.eyebrow{font-size:9px;letter-spacing:3px;margin-bottom:22px}.countdown h2{font-size:27px;letter-spacing:1px;margin-bottom:30px}.countdown-clock{gap:12px}.countdown-unit{padding:22px 0 20px}.countdown-value{font-size:clamp(34px,9.5vw,53px)}.countdown-label{font-size:9px;letter-spacing:.5px;margin-top:12px}.countdown-date{font-size:13px;margin-top:25px}.countdown-date span{font-size:10px}}
